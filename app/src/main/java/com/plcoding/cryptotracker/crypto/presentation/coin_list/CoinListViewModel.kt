@@ -7,7 +7,6 @@ import com.plcoding.cryptotracker.crypto.core.domain.utils.onError
 import com.plcoding.cryptotracker.crypto.core.domain.utils.onSuccess
 import com.plcoding.cryptotracker.crypto.core.presentation.utils.errorToDisplayString
 import com.plcoding.cryptotracker.crypto.domain.networking.CoinDataSource
-import com.plcoding.cryptotracker.crypto.presentation.coin_list.component.coin
 import com.plcoding.cryptotracker.crypto.presentation.model.toCoinUi
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow
